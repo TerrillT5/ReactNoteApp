@@ -1,0 +1,22 @@
+{
+  "name": "reactnodeapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dev-server": "0.0.2",
+    "express": "^4.16.2",
+    "history": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-router": "^4.2.0",
+    "react-scripts": "1.1.1",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
