@@ -3,7 +3,6 @@ import FaPencil from 'react-icons/lib/fa/pencil'
 import FaTrash from 'react-icons/lib/fa/trash'
 import FaFloppyO from 'react-icons/lib/fa/floppy-o'
 
-// https://www.lynda.com/React-js-tutorials/Overview-component-lifecycle/645064/692559-4.html?srchtrk=index%3a11%0alinktypeid%3a2%0aq%3areact+javascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 class Note extends React.Component {
         constructor() {
           super();
