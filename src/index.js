@@ -8,7 +8,6 @@ import './index.css';
 import App from './App';
 
 import Board from './components/Notes/Board';
-import Users from './components/Users';
 
 import registerServiceWorker from './registerServiceWorker';
 
